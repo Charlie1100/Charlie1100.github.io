@@ -1,1 +1,26 @@
+#main {
+	font-family: Verdana, Geneva, sans-serif; 
+	text-align: center;
 
+
+}
+
+#title { }
+
+#img-div {    
+
+
+ }
+
+#image {
+	max-width: 100%;
+	display: block;
+	height: auto;
+	margin: 0 auto;
+
+ }
+
+#img-caption {  
+font-size: 0.8em;
+
+}
